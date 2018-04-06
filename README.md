@@ -1,2 +1,2 @@
 # BTP-DR
-Diabetic 1retinopathy detection 
+Diabetic Retinopathy detection 
